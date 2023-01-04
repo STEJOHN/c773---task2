@@ -1,0 +1,41 @@
+body {
+    background-color: #003B6D;
+    color: #6699CC;
+  }
+  .navbar {
+    background-color: #6699CC;
+    color: #003B6D;
+  }
+  .navbar a {
+    color: #003B6D;
+  }
+  .navbar a:hover {
+    color: #BDBDBD;
+  }
+  .navbar .active {
+    background-color: #003B6D;
+    color: #6699CC;
+  }
+  .navbar .active:hover {
+    background-color: #6699CC;
+    color: #003B6D;
+  }
+  .container {
+    background-color: #BDBDBD;
+    color: #676767;
+  }
+  .footer {
+    background-color: #676767;
+    color: #BDBDBD;
+  }
+
+  #searchButton{
+    background-color: white;
+    color:black;
+  }
+
+  .img-fluid {
+    display: block;
+    margin: 0 auto;
+  }
+  
